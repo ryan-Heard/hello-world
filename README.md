@@ -9,3 +9,7 @@ This sentence is my first change!
 4. (git push) will move it from your machine to GitHub.
 5. (git pull) will pick up the changes from git.
 6. On merge errors. Open the file correct then git add -a.
+7. (git branch) can be used to see branch. Added a name to it will create
+    another branch.
+8. (git checkout + name) will allow you to switch to the branch.
+9. (git merge master) to check for conflicts.
