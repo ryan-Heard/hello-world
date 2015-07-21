@@ -12,3 +12,4 @@ This sentance is my first change!
 7. (git branch) can be used to see branch. Added a name to it will create
     another branch.
 8. (git checkout + name) will allow you to switch to the branch.
+9. (git merge master) to check for conflicts.
