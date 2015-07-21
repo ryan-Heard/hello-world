@@ -1,6 +1,6 @@
 # hello-world
 First Git.
-This sentance is my first change!
+This sentence is my first change!
 1. ( git status ) will tell you the differences between the files.When in the
   shell it will show you the difference.
 2. (git add) will add a file to your project.
