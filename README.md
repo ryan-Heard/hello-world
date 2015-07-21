@@ -1,6 +1,6 @@
 # hello-world
 First Git.
-This sentence is my first change!
+This sentance is my first change!
 1. ( git status ) will tell you the differences between the files.When in the
   shell it will show you the difference.
 2. (git add) will add a file to your project.
@@ -9,3 +9,6 @@ This sentence is my first change!
 4. (git push) will move it from your machine to GitHub.
 5. (git pull) will pick up the changes from git.
 6. On merge errors. Open the file correct then git add -a.
+7. (git branch) can be used to see branch. Added a name to it will create
+    another branch.
+8. (git checkout + name) will allow you to switch to the branch.
