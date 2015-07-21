@@ -8,4 +8,4 @@ This sentance is my first change!
     you forget the -m the use esc :wq
 4. (git push) will move it from your machine to GitHub.
 5. (git pull) will pick up the changes from git.
-6. On merge errors. Open the file correct then git add -a
+6. On merge errors. Open the file correct then git add -a.
